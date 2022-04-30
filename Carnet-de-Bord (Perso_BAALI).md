@@ -1,9 +1,17 @@
 # Carnet de Bord personnelle (Abdessabour-BAALI-RT1-A1)
 
+### Séance du 24/03/2022 (TD encadrée) : 
+---
+
+* Dans cette première séance nous nous sommes approprié moi et mon groupe l'objectif de cette SAE21 et aussi le type de livrable que nous devions rendre. Pour ce faire nous avons décider de reproduire le schéma qui nous a été fourni afin de mieux comprendre comment nous allions créer ce réseau. En fin de séance nous nous sommes réparti les tâches, pour ma part je devais m'occuper de la partie physique c'est à dire la configuration du serveur web ainsi que le DNS et enfin le firewall (pare-feu) du routeur.
+
 ### Séance du 25/03/2022 (TD non-encadrée) : 
 ---
 
 * Nous avons configuré le pool DHCP sur le routeur partie virtuelle sur GNS3. Nous avons aussi commencer à penser à la configuration du serveur WEB, nous avons pour l'instant choisi d'utiliser le service apache (apache2).
+
+### Séance du 28/03/2022 (TD non-encadrée) :
+---
 
 ### Séance du 29/03/2022 (TD encadrée) :
 ---
@@ -83,6 +91,9 @@
 ---
 
 * Dans cette séance 
+
+### Séance du 15/04/2022 (TD encadrée et non-encadrée) :
+---
 
 ### Séance du 21/04/2022 (TD encadrée)
 ---
@@ -175,3 +186,6 @@
         www.testsae21.fr	canonical name = 213-15.testsae21.fr.
         Name:	213-15.testsae21.fr
         Address: 10.213.15.1
+
+### Séance du 22/04/2022 (TD encadrée) :
+---

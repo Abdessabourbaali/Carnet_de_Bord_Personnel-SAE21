@@ -247,7 +247,7 @@
 
 * Tout d'abord j'ai determiné les trames qu'ils fallaient laisser passer ou non. Pour le firewall nous avons prévu de laisser passer  les paquets TCP (port source 80 et 443, ceci correspond aux trames http et https), les paquets UDP port 53 (correspond au trames DNS), UDP port 67 (correspond aux réponse DHCP), UDP port 68 (correspond au port du client DHCP), j'ai laissé passer aussi les paquets ICMP et enfin j'ai bloquer tout les autres paquets autres que ceux qui sont cité au dessus.
 
-* Sur les routeurs Mikrotik l'instruction permettant d'accepter les paquets est **accept**, l'instruction permmetant de bloquer est **drop**. Il faut aussi préciser les chaînes, pour ma part j'ai tout configuré en forward cela signifie les paquets qui traversent le firewall d'une interface vers une autre. 
+* Sur les routeurs Mikrotik l'instruction permettant d'accepter les paquets est **accept**, l'instruction permetant de bloquer est **drop**. Il faut aussi préciser les chaînes, pour ma part j'ai tout configuré en forward cela signifie les paquets qui traversent le firewall d'une interface vers une autre. 
 
 Les commandes entrés sur le routeur sont les suivantes :
 
